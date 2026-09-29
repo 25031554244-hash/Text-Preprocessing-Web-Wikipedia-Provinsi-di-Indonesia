@@ -1,0 +1,39 @@
+﻿No,Code,Abbreviation,Province,Indonesian_Name,Capital,Area_km2,Population
+1,11,AC,,aceh,banda aceh,5683502,5626000
+2,12,SU,,north sumatra,sumatera utara,7243776,15785800
+3,13,SB,,west sumatra,sumatera barat,4210767,5914300
+4,14,RI,,riau,pekanbaru,8990078,6811200
+5,15,JA,,jambi,jambi,4902304,3768500
+6,16,SS,,south sumatra,sumatera selatan,8677192,8928500
+7,17,BE,,bengkulu,bengkulu,2012221,2138000
+8,18,LA,,lampung,bandar lampung,3357076,9522900
+9,19,BB,,bangka belitung islands,kepulauan bangka belitung,1669023,1550800
+10,21,KR,,riau islands,kepulauan riau,817038,2213500
+11,31,JK,,special capital region jakarta,daerah khusus ibukota jakarta,66153,10678000
+12,32,JB,,west java,jawa barat,3705333,50759000
+13,33,JT,,central java,jawa tengah,3434743,38233900
+14,34,YO,,special region yogyakarta,daerah istimewa yogyakarta,317036,3781500
+15,35,JI,,east java,jawa timur,4805588,42089300
+16,36,BT,,banten,serang,935588,12537400
+17,51,BA,,bali,denpasar,558283,4461300
+18,52,NB,,west nusa tenggara,nusa tenggara barat,1963199,5731100
+19,53,NT,,east nusa tenggara,nusa tenggara timur,4637811,5742600
+20,61,KB,,west kalimantan,kalimantan barat,14701806,5766000
+21,62,KT,,central kalimantan,kalimantan tengah,15343036,2845000
+22,63,KS,,south kalimantan,kalimantan selatan,3712543,4323300
+23,64,KI,,east kalimantan,kalimantan timur,12695176,4267600
+24,65,KU,,north kalimantan,kalimantan utara,6990089,749400
+25,71,SA,,north sulawesi,sulawesi utara,1448843,2721400
+26,72,ST,,central sulawesi,sulawesi tengah,6149698,3156100
+27,73,SN,,south sulawesi,sulawesi selatan,4532398,9563100
+28,74,SG,,southeast sulawesi,sulawesi tenggara,3613930,2836700
+29,75,GO,,gorontalo,gorontalo,1202498,1242200
+30,76,SR,,west sulawesi,sulawesi barat,1659067,1525300
+31,81,MA,,maluku,ambon,4613383,1970600
+32,82,MU,,north maluku,maluku utara,3146598,1373800
+33,91,PA,,papua,papua,8138332,1073600
+34,92,PB,,west papua,papua barat,6030859,587600
+35,93,PS,,south papua,papua selatan,11785897,549700
+36,94,PT,,central papua,papua tengah,6107959,1492300
+37,95,PE,,highland papua,papua pegunungan,5250866,1484900
+38,96,PD,,southwest papua,papua barat daya,3910306,636400
